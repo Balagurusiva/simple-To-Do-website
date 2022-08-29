@@ -1,0 +1,12 @@
+#ulTasks li.done {
+    color: #6c757d;
+    text-decoration: line-through;
+  }
+
+  div.absolute {
+
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+  }
+  
