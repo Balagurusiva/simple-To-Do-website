@@ -1,6 +1,8 @@
 # simple-To-Do-website
 tracking of day to days activities with to-do site.
 
+Visit the page : https://balagurusiva.github.io/simple-To-Do-website/
+
 Add item by clicking add button
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/75660556/187223279-98f078a4-930a-4c3a-81eb-2362c203fbb2.png">
 
